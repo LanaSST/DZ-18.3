@@ -1,4 +1,3 @@
-#include <string>
 #include "Rhomb.h"
 
 Rhomb::Rhomb(int side_, int angleA_, int angleB_, std::string_view name_) : 

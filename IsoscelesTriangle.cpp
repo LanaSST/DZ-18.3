@@ -1,7 +1,6 @@
-#include <string>
 #include "IsoscelesTriangle.h"
 
-IsoscelesTriangle::IsoscelesTriangle(int sideAC_, int sideB_, int angleAС_, int angleB_, std::string_view name_) :
-    Triangle(sideAC_, sideB_, sideAC_, angleAС_, angleB_, angleAС_, name_)
+IsoscelesTriangle::IsoscelesTriangle(int sideAB_, int sideC_, int angleAB_, int angleC_, std::string_view name_) :
+    Triangle(sideAB_, sideAB_, sideC_, angleAB_, angleAB_, angleC_, name_)
 { }
 

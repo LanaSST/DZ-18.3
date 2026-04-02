@@ -1,4 +1,3 @@
-#include <string>
 #include "Parallelogram.h"
 
 Parallelogram::Parallelogram(int sideA_, int sideB_, int angleA_, int angleB_, std::string_view name_) : 

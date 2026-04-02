@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include "Triangle.h"
 
 Triangle::Triangle(int sideA_, int sideB_, int sideC_, int angleA_, int angleB_, int angleC_, std::string_view name_) :

@@ -1,4 +1,3 @@
-#include <string>
 #include "Square.h"
 
 Square::Square(int side_, std::string_view name_) : 

@@ -1,6 +1,9 @@
 #ifndef Figure_H
 #define Figure_H
 
+#include <string>
+#include <string_view>
+
 class Figure
 {
 private:

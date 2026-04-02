@@ -1,4 +1,3 @@
-#include <string>
 #include "Rectangle.h"
 
 Rectangle::Rectangle(int sideA_, int sideB_, std::string_view name_) : 
